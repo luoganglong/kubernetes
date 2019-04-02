@@ -1,2 +1,2 @@
-FROM yanliangzhong/elasticsearch6.3.2
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.1
 MAINTAINER luoganglong
