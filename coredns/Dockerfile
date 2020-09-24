@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns:1.2.2
+FROM k8s.gcr.io/addon-resizer:1.8.7
 MAINTAINER luoganglong
