@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/addon-resizer:1.8.7
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.3.7
 MAINTAINER luoganglong
